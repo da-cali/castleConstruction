@@ -510,7 +510,7 @@ a:hover, a:focus, a:active {
   font-family: 'Ubuntu';
   display: inline-block;
   margin: 0 auto;
-  /* padding: 3px; */
+  padding: 6px 6px;
   background-color: beige;
   color: black ;
   border: 1px solid black;
