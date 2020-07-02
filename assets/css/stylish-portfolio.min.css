@@ -431,3 +431,112 @@ a:hover, a:focus, a:active {
 .description {
   padding: 10px 10%;
 }
+
+
+
+.contact { 
+  font-family: 'Ubuntu';
+  display: block;
+  margin: 10px 0px;
+  padding: 5px;
+  color: beige;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.contact label {  
+  font-family: 'Ubuntu';
+  display: block;
+  margin: 10px 0px;
+  padding: 5px;
+  color: beige;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+
+.contact form {  
+  font-family: 'Ubuntu';
+  display: block;
+  margin: 10px 0px;
+  padding: 5px;
+  color: beige;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+
+.contact input {
+  font-family: 'Ubuntu';
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: beige;
+  color: black;
+  border: 5px solid beige;
+  text-align: left;
+  outline: none;
+  text-decoration: none;
+  width: 80%;
+}
+
+.contact textarea {
+  font-family: 'Ubuntu';
+  display: block;
+  margin: 0 auto;
+  padding: 5px;
+  background-color: beige;
+  color: black;
+  border: 5px solid beige;
+  text-align: left;
+  outline: none;
+  text-decoration: none;
+  width: 80%;
+  height: 200px;
+}
+
+@media (min-width: 992px) {
+  .contact input {
+    width: 50%;
+  }
+  .contact textarea {
+    width: 50%;
+  }
+}
+
+.contact button {
+  font-family: 'Ubuntu';
+  display: inline-block;
+  margin: 0 auto;
+  /* padding: 3px; */
+  background-color: beige;
+  color: black ;
+  border: 1px solid black;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+  cursor: pointer;
+  transition: color 0.3s ease-out,
+              background-color 0.3s ease-out,
+              border-color 0.3s ease-out;
+}
+.contact button:hover {
+  background-color: black;
+  border-color: black;
+  color: beige;
+  transition: color 0.3s ease-in,
+              background-color 0.3s ease-in,
+              border-color 0.3s ease-in;
+}
+.contact button:active {
+  background-color: black;
+  border-color: black;
+  color: beige;
+  transition: color 0.3s ease-in,
+              background-color 0.3s ease-in,
+              border-color 0.3s ease-in;
+}
+
+

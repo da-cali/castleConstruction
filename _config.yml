@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Castle Construction
+description: Home renovation and construction services.
 email: info@castleconstructiontexas.com
 phone: +1-940-372-7364
-description: Home renovation services in Whitesboro, Texas. 
 
 keywords: Painting, cabinets, vinyl and wood flooring, tile, trim, countertops, hardwood.
 url: https://castleconstructiontexas.com
