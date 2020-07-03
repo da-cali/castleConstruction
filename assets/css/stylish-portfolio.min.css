@@ -524,7 +524,7 @@ a:hover, a:focus, a:active {
 }
 .contact button:hover {
   background-color: black;
-  border-color: black;
+  border-color: beige;
   color: beige;
   transition: color 0.3s ease-in,
               background-color 0.3s ease-in,
@@ -532,7 +532,7 @@ a:hover, a:focus, a:active {
 }
 .contact button:active {
   background-color: black;
-  border-color: black;
+  border-color: beige;
   color: beige;
   transition: color 0.3s ease-in,
               background-color 0.3s ease-in,
